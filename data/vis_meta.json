@@ -8,8 +8,8 @@
           "a": true, "q": true, "m": true,
           "units": "Thou",
           "children": [
-            { "display_name": "US West Visitor Arrivals", "axis_name": "US West Vis Arrivals",  "udaman_name": "VISUSW@KAU" , "a": true , "q": true , "m": true, "units": "Thou"},
-            { "display_name": "US East Visitor Arrivals", "axis_name": "US East Vis Arrivals", "udaman_name": "VISUSE@KAU" , "a": true , "q": true , "m": true, "units": "Thou"},
+            { "display_name": "US West Visitor Arrivals", "axis_name": "US West Vis Arrivals",  "udaman_name": "VISUSW@KAU", "a": true, "q": true, "m": true, "units": "Thou"},
+            { "display_name": "US East Visitor Arrivals", "axis_name": "US East Vis Arrivals", "udaman_name": "VISUSE@KAU", "a": true, "q": true, "m": true, "units": "Thou"},
             { "display_name": "Japan Visitor Arrivals", "udaman_name": "VISJP@KAU" , "a": true , "q": true , "m": true, "units": "Thou"},
             { "display_name": "Other Visitor Arrivals", "udaman_name": "VISRES@KAU" , "a": true , "q": true , "m": true, "units": "Thou"}
           ] 
